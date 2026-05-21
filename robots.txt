@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://youtube-to-mp3.jameswill8520.workers.dev/sitemap.xml
